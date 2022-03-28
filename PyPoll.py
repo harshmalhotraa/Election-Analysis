@@ -97,19 +97,4 @@ with open(file_to_save, "w") as txt_file:
     
         
         
-    # Print the candidate name and percentage of votes.
-    #print(f"{candidate_name}: received {vote_percentage}% of the vote.")
-
-# Print the candidate vote dictionary.
-#print(candidate_votes)
-
-
-
-
-    # Using the with statement open the file as a text file.
-    #with open(file_to_save, "w") as txt_file:
-
-    # Write three counties to the file.
-    #    txt_file.write("Counties in the Election\n-----------------------\n")
-    #   txt_file.write("Arapahoe\nDenver\nJefferson")
-
+   
